@@ -13,4 +13,5 @@ The ECMSRC outperforms the EcmPred method in test accuracy and Youden's index. N
 
 # Citation:
 Naseem, Imran & Khan, Shujaat & Togneri, Roberto & Bennamoun, Mohammed. (2015). ECMSRC: A Sparse Learning Approach for the Prediction of Extracellular Matrix Proteins. Current Bioinformatics. 11. 1-1. 10.2174/1574893611666151215213508. 
-# Pre-print: https://www.researchgate.net/publication/288903646_ECMSRC_A_Sparse_Learning_Approach_for_the_Prediction_of_Extracellular_Matrix_Proteins
+# Pre-print:
+https://www.researchgate.net/publication/288903646_ECMSRC_A_Sparse_Learning_Approach_for_the_Prediction_of_Extracellular_Matrix_Proteins
